@@ -1,0 +1,47 @@
+nav{
+    background-color:crimson;
+    color:white;
+    padding:20px;
+    height:40px;
+}
+ul,li,h1{
+    display:inline;
+}
+ul{
+    margin-left:65%;
+}
+body{
+    background:url('DOSA.jpg') no-repeat;
+    background-size:cover;
+    text-align:center;
+    font-size:20px;
+}
+table{
+    margin-left:40%;
+    margin-top:40px;
+    padding:20px;
+}
+.ending button{
+    padding:20px;
+    width:30%;
+    margin-top:30px;
+    border:2px solid grey;
+    font-size:30px;
+}
+.ending #one{
+    background-color: red;
+    border-color:red;
+}
+.ending #two{
+    margin-left:10px;
+    background-color:grey;
+}
+
+#one a{
+    color:white;
+    text-decoration: none;
+}
+#two a{
+    color:black;
+    text-decoration:none;
+}
